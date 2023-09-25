@@ -47,7 +47,7 @@ ctx.stroke();
 
 ctx.beginPath();
 ctx.lineTo(200,100);
-ctx.arc(200, 100, 50, 30, 2 * Math.PI);
+ctx.arc(200, 100, 50, 155, -201 / Math.PI);
 ctx.fillStyle = 'black';
 ctx.fill();
 ctx.strokeStyle = 'black';
